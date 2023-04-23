@@ -1,4 +1,4 @@
-package dev.rinaldo.stream;
+package dev.fernando.stream;
 
 import java.io.BufferedReader;
 import java.io.File;

@@ -1,4 +1,4 @@
-package dev.rinaldo.lambda;
+package dev.fernando.lambda;
 
 import java.util.Arrays;
 import java.util.List;

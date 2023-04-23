@@ -1,4 +1,4 @@
-package dev.rinaldo.optional;
+package dev.fernando.optional;
 
 import java.util.Optional;
 

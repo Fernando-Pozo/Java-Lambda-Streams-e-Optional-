@@ -1,4 +1,4 @@
-package dev.rinaldo.stream;
+package dev.fernando.stream;
 
 import java.util.Arrays;
 import java.util.List;

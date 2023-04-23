@@ -1,4 +1,4 @@
-package dev.rinaldo.lambda;
+package dev.fernando.lambda;
 
 import java.math.BigDecimal;
 import java.util.Arrays;

@@ -1,13 +1,15 @@
-package dev.rinaldo.test.lambda;
+package dev.fernando.test.lambda;
 
-import dev.rinaldo.test.support.RinaldoDevTest;
-import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
+
+import dev.fernando.test.support.RinaldoDevTest;
 
 /**
  * EXERCÍCIOS da aula introdutória de Lambdas.
