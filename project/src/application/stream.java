@@ -2,6 +2,7 @@ package application;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 public class stream {
@@ -20,10 +21,29 @@ public class stream {
 		*/
 		
 		//cria uma nova lista 
+		/*
 		List<Integer> novalista = lista.stream()
 				.filter(e -> e % 2 == 0)
+				.map(e -> e * 3)
 				.collect(Collectors.toList());
 		
 		System.out.println(novalista);
+		*/
+		
+		//agrupar em um mapa pelos numero par/impar
+		/*
+		Map<Boolean, List<Integer>> mapa = lista.stream()
+			    .map(e -> e * 3)
+				.collect(Collectors.groupingBy(e -> e % 2 == 0));
+		
+		System.out.println(mapa);
+		*/
+		
+		//agrupar como string
+		String collect = lista.stream()
+			    .map(e -> String.valueOf(e))
+				.collect(Collectors.joining(","));
+		
+		System.out.println(collect);
 	}
 }
