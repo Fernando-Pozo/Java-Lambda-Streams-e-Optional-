@@ -1,5 +1,5 @@
 
-### Youtube - **Java  Lambda, Streams e Optional do Java** - Anotações/Exercicios :rocket: 
+### Youtube - **Estrutura de Dados com Java** - Anotações/Exercicios :rocket: 
 ---
 <p align = "center">
 <a align href = "#Sobre">Sobre</a> │
@@ -10,7 +10,7 @@
 ---
 
 ## Sobre
-Repositorio dedicado as aulas [Java  Lambda, Streams e Optional do Java](https://youtube.com/playlist?list=PLuYctAHjg89ZkhgOQo0zcTtmHY5nuRYud). As aulas tem por finalidade me aprofundar nos conhecimentos de lambda, streams e Optional <br>
+Repositorio dedicado as aulas [Estrutura de Dados com Java](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi). As aulas tem por finalidade praticar estruturas de dados com java<br>
 Neste repositorio voce ira encontrar anotações que fiz durante as aulas, listas de exercicios propostos.
  
 ## Tecnologias
